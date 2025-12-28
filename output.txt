@@ -1,0 +1,2 @@
+sum is 7 
+product is 10
